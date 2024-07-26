@@ -148,3 +148,9 @@ display: flex;
   font-size: 20px;
   color: var(--brand-color);
 }
+.header-nav-item:not(:last-child) {
+  margin-right:px;
+}
+.header-item {
+  top: 500;
+}
